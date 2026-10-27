@@ -1,0 +1,11 @@
+name = "jmfb"
+main = "src/worker.js"
+compatibility_date = "2026-07-01"
+
+[[durable_objects.bindings]]
+name = "RELAY"
+class_name = "RelayRoom"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["RelayRoom"]

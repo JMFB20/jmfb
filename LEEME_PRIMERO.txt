@@ -1,0 +1,13 @@
+GAZAPO LINK 0.8.0 4P EXP - RELAY PROTOCOLO 10
+================================================
+
+METODO FACIL:
+Abre README.md y pulsa el boton Deploy to Cloudflare.
+
+Al terminar, comparte la URL terminada en workers.dev con los otros jugadores.
+Todos deben pegar exactamente la misma URL en:
+Gazapo Link > tres puntos > Servidor online > Guardar.
+
+Comprueba la URL en el navegador: debe mostrar protocol: 10.
+
+No uses este relay con aplicaciones de protocolo 8, 9 u 11.
